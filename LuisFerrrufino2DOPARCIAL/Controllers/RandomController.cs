@@ -9,7 +9,7 @@ using System.Linq;
 using System.Threading.Tasks;
 
 namespace LuisFerrrufino2DOPARCIAL.Controllers
-{
+{      //Funciona bien
     [Route("api/[controller]")]
     [ApiController]
     public class RandomController : ControllerBase
